@@ -1,0 +1,56 @@
+.time-wheel {
+  margin: auto;
+  text-align: center;
+  width: 30%;
+  height: 200px;
+  min-width: 300px;
+}
+
+.year-wheel {
+  width: 15%
+}
+
+.month-wheel {
+  width: 7%
+}
+
+.date-wheel {
+  width: 7%
+}
+
+.hour-wheel {
+  width: 7%
+}
+
+.minute-wheel {
+  width: 7%
+}
+
+.second-wheel {
+  width: 7%
+}
+
+.time-text {
+  display: inline-block;
+  margin-top: 10px;
+  width:80%;
+  height:30px;
+  line-height: 30px;
+  font-size: 18px;
+}
+
+.unit-text {
+  display: inline-block;
+  margin-top: 10px;
+  width: 5%;
+  text-align: left;
+  font-size: 15px
+}
+
+button {
+  margin-top: 10px;
+  width: 30%;
+  height:30px;
+  border-radius: 5px;
+  font-size: 18px
+}
